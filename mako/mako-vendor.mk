@@ -28,11 +28,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/mako/proprietary/vendor/firmware/dsps.b04:$(TARGET_COPY_OUT_VENDOR)/firmware/dsps.b04 \
     vendor/lge/mako/proprietary/vendor/firmware/dsps.b05:$(TARGET_COPY_OUT_VENDOR)/firmware/dsps.b05 \
     vendor/lge/mako/proprietary/vendor/firmware/dsps.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/dsps.mdt \
-    vendor/lge/mako/proprietary/vendor/firmware/keymaster/keymaster.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/keymaster/keymaster.b00 \
-    vendor/lge/mako/proprietary/vendor/firmware/keymaster/keymaster.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/keymaster/keymaster.b01 \
-    vendor/lge/mako/proprietary/vendor/firmware/keymaster/keymaster.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/keymaster/keymaster.b02 \
-    vendor/lge/mako/proprietary/vendor/firmware/keymaster/keymaster.b03:$(TARGET_COPY_OUT_VENDOR)/firmware/keymaster/keymaster.b03 \
-    vendor/lge/mako/proprietary/vendor/firmware/keymaster/keymaster.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/keymaster/keymaster.mdt \
     vendor/lge/mako/proprietary/vendor/firmware/q6.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/q6.b00 \
     vendor/lge/mako/proprietary/vendor/firmware/q6.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/q6.b01 \
     vendor/lge/mako/proprietary/vendor/firmware/q6.b03:$(TARGET_COPY_OUT_VENDOR)/firmware/q6.b03 \
