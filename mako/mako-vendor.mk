@@ -54,14 +54,12 @@ PRODUCT_COPY_FILES += \
     vendor/lge/mako/proprietary/vendor/lib/egl/libq3dtools_adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib/egl/libq3dtools_adreno.so \
     vendor/lge/mako/proprietary/vendor/lib/hw/flp.msm8960.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/flp.msm8960.so \
     vendor/lge/mako/proprietary/vendor/lib/libAKM.so:$(TARGET_COPY_OUT_VENDOR)/lib/libAKM.so \
-    vendor/lge/mako/proprietary/vendor/lib/libC2D2.so:$(TARGET_COPY_OUT_VENDOR)/lib/libC2D2.so \
     vendor/lge/mako/proprietary/vendor/lib/libCB.so:$(TARGET_COPY_OUT_VENDOR)/lib/libCB.so \
     vendor/lge/mako/proprietary/vendor/lib/libQSEEComAPI.so:$(TARGET_COPY_OUT_VENDOR)/lib/libQSEEComAPI.so \
     vendor/lge/mako/proprietary/vendor/lib/libacdbdata.so:$(TARGET_COPY_OUT_VENDOR)/lib/libacdbdata.so \
     vendor/lge/mako/proprietary/vendor/lib/libacdbloader.so:$(TARGET_COPY_OUT_VENDOR)/lib/libacdbloader.so \
     vendor/lge/mako/proprietary/vendor/lib/libadreno_utils.so:$(TARGET_COPY_OUT_VENDOR)/lib/libadreno_utils.so \
     vendor/lge/mako/proprietary/vendor/lib/libaudcal.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaudcal.so \
-    vendor/lge/mako/proprietary/vendor/lib/libc2d30-a3xx.so:$(TARGET_COPY_OUT_VENDOR)/lib/libc2d30-a3xx.so \
     vendor/lge/mako/proprietary/vendor/lib/libcamera_fast_af.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcamera_fast_af.so \
     vendor/lge/mako/proprietary/vendor/lib/libchromatix_imx111_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx111_default_video.so \
     vendor/lge/mako/proprietary/vendor/lib/libchromatix_imx111_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_imx111_preview.so \
